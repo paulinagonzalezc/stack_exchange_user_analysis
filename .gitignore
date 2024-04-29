@@ -1,0 +1,4 @@
+# Ignore xml content of the XML-Data Folder
+XML-Data/*.xml
+
+myenv/
